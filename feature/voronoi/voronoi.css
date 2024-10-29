@@ -1,0 +1,9 @@
+polygon {
+  stroke: black;
+  stroke-width: 8;
+  fill: none;
+}
+
+circle {
+  fill: red;
+}
