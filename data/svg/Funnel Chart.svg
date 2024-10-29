@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 289 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2263,0)">
+        <g id="Funnel-Chart" serif:id="Funnel Chart" transform="matrix(-0.137959,0,0,0.165,2639.57,-77.9108)">
+            <rect x="635.018" y="472.187" width="2087.57" height="1745.46" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,130.473,-72.7273)">
+                <g transform="matrix(-7.2485,0,0,6.06061,2722.59,-13261.2)">
+                    <path d="M219.5,2338L252,2338C252,2338 250.192,2370.76 241.354,2386C232.075,2402 217.764,2418 208.327,2434C199.306,2449.3 189.455,2466 184.737,2482C180.21,2497.35 180.019,2530 180.019,2530L172,2530C172,2530 172.493,2497.68 176,2482C179.578,2466 185.333,2449.61 192,2434C198.833,2418 212.833,2402 216,2386C219.123,2370.22 219.5,2338 219.5,2338Z" style="fill:rgb(255,195,5);"/>
+                </g>
+                <g transform="matrix(-7.2485,0,0,6.06061,2722.59,-13261.2)">
+                    <path d="M192,2338L219.5,2338C219.5,2338 219.123,2370.22 216,2386C212.833,2402 198.833,2418 192,2434C185.333,2449.61 179.578,2466 176,2482C172.493,2497.68 172,2530 172,2530L168,2530C168,2530 169.834,2497.99 171,2482C172.167,2466 171.569,2449.68 175,2434C178.5,2418 191.167,2402 192,2386C192.833,2370 192,2338 192,2338Z" style="fill:rgb(199,0,57);"/>
+                </g>
+                <g transform="matrix(-7.2485,0,0,6.06061,2722.59,-13261.2)">
+                    <path d="M148,2338L192,2338C192,2338 192.833,2370 192,2386C191.167,2402 178.5,2418 175,2434C171.569,2449.68 172.167,2466 171,2482C169.834,2497.99 168,2530 168,2530L165,2530L165,2482C165,2465.88 157.5,2450 156,2434C154.507,2418.07 152.985,2401.88 151,2386C149,2370 148,2338 148,2338Z" style="fill:rgb(144,12,63);"/>
+                </g>
+                <g transform="matrix(-7.2485,0,0,6.06061,2722.59,-13261.2)">
+                    <path d="M84,2338L148,2338C148,2338 149.281,2370 151.281,2386C153.265,2401.88 154.507,2418.07 156,2434C157.5,2450 165,2465.88 165,2482L165,2530L156,2530C156,2530 155.81,2497.35 151.281,2482C146.562,2466 136.709,2449.3 127.685,2434C118.247,2418 103.933,2402 94.652,2386C85.811,2370.76 84,2338 84,2338Z" style="fill:rgb(88,24,69);"/>
+                </g>
+            </g>
+            <g id="curves" transform="matrix(1,0,0,1,130.473,-72.7273)">
+                <g transform="matrix(-7.2485,0,0,6.06061,2548.62,-13115.7)">
+                    <path d="M168,2314C168,2314 168.833,2346 168,2362C167.167,2378 154.5,2394 151,2410C147.569,2425.68 148.167,2442 147,2458C145.834,2473.99 144,2506 144,2506" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(-7.2485,0,0,6.06061,2548.62,-13115.7)">
+                    <path d="M195.5,2314C195.5,2314 195.123,2346.22 192,2362C188.833,2378 174.833,2394 168,2410C161.333,2425.61 155.578,2442 152,2458C148.493,2473.68 148,2506 148,2506" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+            </g>
+            <g id="stages" transform="matrix(1,0,0,1,130.473,-72.7273)">
+                <g transform="matrix(-10.8141,0,0,6.06061,2547.22,-13115.7)">
+                    <path d="M24,2458L160.737,2458" style="fill:none;stroke:rgb(128,128,128);stroke-width:0.39px;stroke-dasharray:1.57,1.57,0,0,0,0;"/>
+                </g>
+                <g transform="matrix(-9.22297,-1.03308e-14,1.24492e-14,6.06061,2509.03,-13115.7)">
+                    <path d="M184.327,2410L24,2410" style="fill:none;stroke:rgb(12,0,0);stroke-width:0.44px;"/>
+                </g>
+                <g transform="matrix(-7.64762,0,0,6.06061,2471.22,-13115.7)">
+                    <path d="M24,2362L217.354,2362" style="fill:none;stroke:rgb(128,128,128);stroke-width:0.49px;stroke-dasharray:1.95,1.95,0,0,0,0;"/>
+                </g>
+                <g transform="matrix(-7.2485,0,0,6.06061,2548.62,-13115.7)">
+                    <path d="M48,2314L240,2314" style="fill:none;"/>
+                </g>
+                <g id="ticks">
+                    <g transform="matrix(-7.2485,0,0,12.1212,2710.46,-28021.8)">
+                        <path d="M190.327,2434L190.327,2435.5" style="fill:none;stroke:black;stroke-width:0.32px;stroke-linejoin:round;"/>
+                    </g>
+                    <g transform="matrix(-7.2485,0,0,6.06061,2249.15,-13270.2)">
+                        <path d="M109.685,2434L109.685,2437" style="fill:none;stroke:black;stroke-width:0.5px;stroke-linejoin:round;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="labels" transform="matrix(1,0,0,1,130.473,-72.7273)">
+                <g transform="matrix(-6.90648,-6.84504e-16,1.31731e-15,5.77464,2561.92,-5236.75)">
+                    <g transform="matrix(14.6933,0,0,14.6933,196.282,1056.91)">
+                    </g>
+                    <text x="188.906px" y="1056.91px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:14.693px;">C</text>
+                    <rect x="188.906" y="1058.86" width="7.376" height="0.294"/>
+                </g>
+                <g transform="matrix(-6.90648,-6.84504e-16,1.31731e-15,5.77464,2825.08,-5236.75)">
+                    <g transform="matrix(14.6933,0,0,14.6933,196.723,1056.91)">
+                    </g>
+                    <text x="188.465px" y="1056.91px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:14.693px;">B</text>
+                </g>
+                <g transform="matrix(-6.90648,-6.84504e-16,1.31731e-15,5.77464,3211.91,-5236.75)">
+                    <g transform="matrix(14.6933,0,0,14.6933,196.775,1056.91)">
+                    </g>
+                    <text x="188.414px" y="1056.91px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:14.693px;">A</text>
+                </g>
+                <g transform="matrix(-6.90648,-6.84504e-16,1.31731e-15,5.77464,3530.84,-4364.03)">
+                    <g transform="matrix(14.6933,0,0,14.6933,187.743,1056.91)">
+                    </g>
+                    <text x="180px" y="1056.91px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:14.693px;">K</text>
+                </g>
+                <g transform="matrix(-6.90648,-6.84504e-16,1.31731e-15,5.77464,3530.84,-4654.93)">
+                    <g transform="matrix(14.6933,0,0,14.6933,185.951,1056.91)">
+                    </g>
+                    <text x="180px" y="1056.91px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:14.693px;">J</text>
+                    <rect x="180" y="1058.86" width="5.951" height="0.294"/>
+                </g>
+                <g transform="matrix(-6.90648,-6.84504e-16,1.31731e-15,5.77464,3530.84,-4945.84)">
+                    <g transform="matrix(14.6933,0,0,14.6933,183.629,1056.91)">
+                    </g>
+                    <text x="180px" y="1056.91px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:14.693px;">I</text>
+                </g>
+                <g transform="matrix(-6.90648,-6.84504e-16,1.31731e-15,5.77464,2345.31,-5236.75)">
+                    <g transform="matrix(14.6933,0,0,14.6933,196.811,1056.91)">
+                    </g>
+                    <text x="188.377px" y="1056.91px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:14.693px;">D</text>
+                </g>
+            </g>
+            <g transform="matrix(-6.90648,1.8297e-16,-3.0678e-16,5.77464,2284.1,-4667.06)">
+                <g transform="matrix(7.34666,0,0,7.34666,194.693,1049)">
+                </g>
+                <text x="181.3px" y="1049px" style="font-family:'BloggerSans-Bold', 'Blogger Sans';font-weight:700;font-size:7.347px;">10%</text>
+            </g>
+        </g>
+    </g>
+</svg>

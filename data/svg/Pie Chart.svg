@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 289 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1295,0)">
+        <g id="Pie-Chart" serif:id="Pie Chart" transform="matrix(0.137959,0,0,0.165,1208.32,-77.9108)">
+            <rect x="635.018" y="472.187" width="2087.57" height="1745.46" style="fill:none;"/>
+            <g id="sector" transform="matrix(1.08194,-0.374709,0.535991,1.08194,-854.665,518.279)">
+                <g transform="matrix(6.69457,2.32368,-2.77912,5.59746,-147.338,-2351.21)">
+                    <path d="M468,384C513.257,384 550,420.743 550,466C550,488.629 540.814,509.129 525.971,523.971L468,466L468,384Z" style="fill:rgb(88,24,69);stroke:white;stroke-width:1.02px;"/>
+                </g>
+                <g transform="matrix(6.69457,2.32368,-2.77912,5.59746,-159.186,-2350.98)">
+                    <path d="M525.971,523.971C511.129,538.814 490.629,548 468,548C445.371,548 424.871,538.814 410.029,523.971L468,466L525.971,523.971Z" style="fill:rgb(144,12,63);"/>
+                </g>
+                <g transform="matrix(6.69457,2.32368,-2.77912,5.59746,-159.186,-2350.98)">
+                    <path d="M410.029,523.971C395.186,509.129 386,488.629 386,466C386,455.193 388.095,444.871 391.901,435.42L468,466L410.029,523.971Z" style="fill:rgb(199,0,57);"/>
+                </g>
+                <g transform="matrix(6.69457,2.32368,-2.77912,5.59746,-159.186,-2350.98)">
+                    <path d="M391.901,435.42C400.448,414.195 417.622,397.357 439.069,389.258L468,466L391.901,435.42Z" style="fill:rgb(255,87,51);"/>
+                </g>
+                <g transform="matrix(6.69457,2.32368,-2.77912,5.59746,-159.186,-2350.98)">
+                    <path d="M439.069,389.258C448.068,385.86 457.818,384 468,384L468,466L439.069,389.258Z" style="fill:rgb(255,195,5);"/>
+                </g>
+            </g>
+            <g id="label" transform="matrix(1.17108,0,0,1.17108,-298.732,-293.446)">
+                <g transform="matrix(6.90648,1.8297e-16,3.0678e-16,5.77464,1003.42,-4881.97)">
+                    <g transform="matrix(12.5468,0,0,12.5468,194.199,1054.3)">
+                    </g>
+                    <text x="187.31px" y="1054.3px" style="font-family:'BloggerSans', 'Blogger Sans';font-size:12.547px;">A</text>
+                    <rect x="187.31" y="1055.97" width="6.888" height="0.251"/>
+                </g>
+                <g transform="matrix(6.90648,1.8297e-16,3.0678e-16,5.77464,374.015,-4093.93)">
+                    <g transform="matrix(12.5468,0,0,12.5468,194.28,1054.29)">
+                    </g>
+                    <text x="187.229px" y="1054.29px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:12.547px;">B</text>
+                </g>
+                <g transform="matrix(6.90648,1.09847e-16,1.05646e-16,5.77464,-294.751,-4554.5)">
+                    <g transform="matrix(12.5468,0,0,12.5468,193.904,1054.29)">
+                    </g>
+                    <text x="187.605px" y="1054.29px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:12.547px;">C</text>
+                </g>
+                <g transform="matrix(6.90648,1.51513e-17,-1.26775e-15,5.77464,-101.329,-5071.43)">
+                    <g transform="matrix(12.5468,0,0,12.5468,194.355,1054.29)">
+                    </g>
+                    <text x="187.153px" y="1054.29px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:12.547px;">D</text>
+                </g>
+                <g transform="matrix(6.90648,-1.2121e-16,-1.82036e-15,5.77464,251.142,-5223.81)">
+                    <g transform="matrix(12.5468,0,0,12.5468,193.853,1054.29)">
+                    </g>
+                    <text x="187.655px" y="1054.29px" style="font-family:'BloggerSans-Medium', 'Blogger Sans';font-weight:500;font-size:12.547px;">E</text>
+                </g>
+            </g>
+            <g transform="matrix(8.48857,0,0,7.09746,-2298.96,-1998.8)">
+                <g transform="matrix(11.9548,0,0,11.9548,525.897,453.316)">
+                </g>
+                <text x="504.103px" y="453.316px" style="font-family:'BloggerSans-Bold', 'Blogger Sans';font-weight:700;font-size:11.955px;fill:white;">37%</text>
+            </g>
+        </g>
+    </g>
+</svg>
