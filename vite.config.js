@@ -7,7 +7,10 @@ export default defineConfig({
   base: './',
   server: {
     host: true,
-    port: 8000
+    port: 8009
+  },
+  build: {
+    target: 'esnext',
   },
   resolve: {
     alias: {
@@ -17,13 +20,5 @@ export default defineConfig({
   },
   plugins: [
     reactPlugin(),
-    viteStaticCopy({
-      targets: [
-        {
-          src: 'node_modules/d3/d3.js',
-          dest: 'node_modules/d3'
-        }
-      ]
-    })
   ],
 })

@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  margin: 12px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
+  gap: 12px;
+
+  img {
+    background-color: white;
+  }
+}

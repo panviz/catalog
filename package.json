@@ -18,7 +18,7 @@
     "lint": "eslint . --ignore-path .gitignore",
     "start": "vite",
     "preview": "vite preview",
-    "deploy": "rsync -azP --delete dist/ index.html data asset panviz.com:/home/dmitra/panviz.com/",
+    "deploy": "rsync -azP --delete dist/ data panviz.com:/home/dmitra/daviste.com/panviz.com/",
     "build": "vite build"
   },
   "dependencies": {
@@ -32,7 +32,7 @@
     "@reduxjs/toolkit": "^2.2.8",
     "d3": "^6.7.0",
     "d3-voronoi-map": "^2.1.1",
-    "lodash": "4.17.15",
+    "lodash": "^4.17.21",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-redux": "^9.1.2",
